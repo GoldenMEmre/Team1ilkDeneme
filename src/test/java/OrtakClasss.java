@@ -10,20 +10,6 @@ public class OrtakClasss {
         System.out.println("sekizinci satirimiz-Ogün");
         System.out.println("9. satirimiz-muhammet");
         System.out.println("onuncu satirimiz-Tulin");
-
-        
-
-      
-        
-        
-
-       
-
-       
-
-
-
-
     }
 }
 /*
