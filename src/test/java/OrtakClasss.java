@@ -7,10 +7,14 @@ public class OrtakClasss {
         System.out.println("besinci satirimiz -Didem");
         System.out.println("Altinci Satirimiz-Omer");
         System.out.println("yedinci satirmiz makin");
+        System.out.println("9. satirimiz-muhammet");
+
+        
 
        
 
        
+
 
 
     }
