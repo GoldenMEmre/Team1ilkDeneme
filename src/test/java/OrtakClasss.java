@@ -3,19 +3,24 @@ public class OrtakClasss {
         System.out.println("ilk satırımız-Team Lead");
         System.out.println("ikinci satırımız-MEmre");
         System.out.println("ucuncu satirimiz-Burkay");
-      System.out.println("dorduncu satir -Mehmet");
+        System.out.println("dorduncu satir -Mehmet");
         System.out.println("besinci satirimiz -Didem");
         System.out.println("Altinci Satirimiz-Omer");
         System.out.println("yedinci satirmiz makin");
+        System.out.println("sekizinci satirimiz-Ogün");
         System.out.println("9. satirimiz-muhammet");
         System.out.println("onuncu satirimiz-Tulin");
 
         
+
+      
+        
         
 
        
 
        
+
 
 
 
