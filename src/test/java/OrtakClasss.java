@@ -5,8 +5,10 @@ public class OrtakClasss {
         System.out.println("ucuncu satirimiz-Burkay");
        System.out.println("dorduncu satir -Mehmet");
         System.out.println("besinci satirimiz -Didem");
+        System.out.println("Altinci Satirimiz-Omer");
 
        
+
 
     }
 }
