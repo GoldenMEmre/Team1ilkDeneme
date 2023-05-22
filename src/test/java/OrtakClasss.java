@@ -1,6 +1,7 @@
 public class OrtakClasss {
     public static void main(String[] args) {
         System.out.println("ilk satırımız-Team Lead");
+        System.out.println("ikinci satırımız-MEmre");
 
 
     }
