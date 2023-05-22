@@ -3,6 +3,7 @@ public class OrtakClasss {
         System.out.println("ilk satırımız-Team Lead");
         System.out.println("ikinci satırımız-MEmre");
         System.out.println("ucuncu satirimiz-Burkay");
+        System.out.println("onuncu satirimiz-Tulin");
     }
 }
 /*
