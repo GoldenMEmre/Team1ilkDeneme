@@ -1,5 +1,11 @@
+import Utilities.ConfigReader;
+import Utilities.Driver;
+import org.testng.annotations.Test;
+
 public class MEmre {
-    public static void main(String[] args) {
-        System.out.println("MEmre'nin yeri");
-    }
+   @Test
+    public void Test01 (){
+       Driver.getDriver().get(ConfigReader.getProperty("amazonUrl"));
+   }
+
 }
