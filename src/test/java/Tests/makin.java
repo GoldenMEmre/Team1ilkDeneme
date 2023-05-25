@@ -1,3 +1,5 @@
+package Tests;
+
 public class makin {
     public static void main(String[] args) {
 

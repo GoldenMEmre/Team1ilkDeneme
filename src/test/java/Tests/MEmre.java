@@ -1,3 +1,5 @@
+package Tests;
+
 import Utilities.ConfigReader;
 import Utilities.Driver;
 import org.testng.annotations.Test;

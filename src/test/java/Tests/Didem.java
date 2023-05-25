@@ -1,3 +1,5 @@
+package Tests;
+
 public class Didem {
 
     public static void main(String[] args) {

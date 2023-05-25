@@ -6,8 +6,8 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 
-public class Amazon {
-    public Amazon(){
+public class AmazonPage {
+    public AmazonPage(){
         PageFactory.initElements(Driver.getDriver(),this);
         // bu ayari constructor icine koyma sebebimiz :
         // page sayfalarina obje olusturularak ulasildigi icin
