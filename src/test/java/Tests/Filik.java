@@ -18,6 +18,6 @@ public class Filik {
         amazonPage.aramaKutusu.sendKeys(ConfigReader.getProperty("amazonAranacakKelime")+Keys.ENTER);
         //Browser kapatılır.
         Driver.closeDriver();
-        //Not: 27.05.2023 tarihine kadar görev tamamlanıp Github'a gönderilmesi gerekir.
+
     }
 }
