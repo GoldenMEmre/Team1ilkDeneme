@@ -22,5 +22,6 @@ public class Burkay {
         Driver.closeDriver();
 
         System.out.println("deneme");
+        System.out.println("burkay");
     }
 }
