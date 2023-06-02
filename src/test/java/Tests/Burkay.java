@@ -27,5 +27,7 @@ public class Burkay {
 
 
         System.out.println("naber keke");
+
+        // sdagjkdsjkgs
     }
 }
