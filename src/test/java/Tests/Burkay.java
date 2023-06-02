@@ -21,7 +21,10 @@ public class Burkay {
         //Browser kapatılır.
         Driver.closeDriver();
 
+
         System.out.println("deneme");
         System.out.println("burkay");
+
+
     }
 }
