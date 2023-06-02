@@ -20,5 +20,7 @@ public class Burkay {
         amazonPage.aramaKutusu.sendKeys(ConfigReader.getProperty("amazonAranacakKelime") + Keys.ENTER);
         //Browser kapatılır.
         Driver.closeDriver();
+
+        System.out.println("deneme");
     }
 }
